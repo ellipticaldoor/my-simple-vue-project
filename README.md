@@ -1,6 +1,6 @@
 # my-simple-vue-project
 
-> A Vue.js project
+> This is an example project for this article [https://ellipticaldoor.com/2017-07-26-simplifying-vue-js-development/](https://ellipticaldoor.com/2017-07-26-simplifying-vue-js-development/)
 
 ## Build Setup
 
